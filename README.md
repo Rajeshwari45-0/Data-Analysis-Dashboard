@@ -20,3 +20,5 @@ Questions(KPIs)
 -Which shipping mode is most effective in driving sales and profit?
 
 -Which states or regions contribute the most to profitability, and where are the underperforming areas?
+
+-Dashboard interaction <a href="https://github.com/Rajeshwari45-0/Data-Analysis-Dashboard/blob/main/Screenshot%202025-01-12%20105009.png">ViewDashboard</a>
